@@ -1,0 +1,68 @@
+body{
+  margin: 0;
+  background-image: url(pokedex.jpg);
+  width: 100%;
+  background-repeat: no-repeat;
+}
+.panel{
+  width: 170px;
+  height: 115px;
+  border: 3px solid black;
+  position: relative;
+  left: 173px;
+  top: 143px;
+  border-radius: 8px;
+  background-color: lightgrey;
+}
+.panel1{
+  width: 172px;
+  height: 60px;
+  border: 3px solid black;
+  position: relative;
+  left: 450px;
+  top: 33px;
+  border-radius: 8px;
+  background-color: rgb(0,71,56);
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+input{
+  position: relative;
+  left: 425px;
+  top: 36px;
+}
+img{
+  width: 90%;
+}
+button {
+  position: relative;
+  left: 670px;
+  top: 36px;
+}
+.one{
+  width: 172px;
+  height: 60px;
+  border: 2px solid black;
+  text-align: center;
+}
+#one{
+  position: relative;
+  top: 250px;
+  left: 150px;
+}
+#two{
+  position: relative;
+  top: 186px;
+  left: 325px;
+}
+#three{
+  position: relative;
+  top: 185px;
+  left: 150px;
+}
+#four{
+  position: relative;
+  top: 121px;
+  left: 325px;
+}
